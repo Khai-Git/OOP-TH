@@ -1,9 +1,8 @@
 package phan02;
-/**
+/*
  * 
  * 2/ Thao tác với toán tử nối chuỗi
  * 
- * @author
  * */
 public class Bai02 {
 	public static void main(String[] args) {
