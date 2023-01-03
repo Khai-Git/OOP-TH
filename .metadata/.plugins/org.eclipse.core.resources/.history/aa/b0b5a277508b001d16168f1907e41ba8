@@ -1,0 +1,21 @@
+package phan03;
+/**
+ * 
+ * 1/ Cấu trúc if-else, switch case
+ * 
+ * @author
+ * */
+public class Bai01_SwitchCase {
+	public static void main(String[] args) {
+		int month = 8;
+		String monthString;
+		switch (monthString) {
+		case 1:
+			monthString = "January";
+			break;
+
+		default:
+			break;
+		}
+	}
+}
