@@ -1,0 +1,21 @@
+package phan02;
+/*
+ * 
+ * 4/ Thao tác với toán tử pre-increment và post-increment
+ * 
+ * */
+public class Bai04 {
+	public static void main(String[] args) {
+		int i = 3;
+		i++;
+		System.out.println(i);
+		++i;
+		System.out.println(i);
+		System.out.println(++i);
+		System.out.println(i++);
+		System.out.println(--i);
+		System.out.println(i--);
+		System.out.println(i);
+		
+	}
+}

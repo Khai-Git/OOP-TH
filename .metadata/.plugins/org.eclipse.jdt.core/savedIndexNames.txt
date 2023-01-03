@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+T:\19631071_DangPhamThienKhai\.metadata\.plugins\org.eclipse.jdt.core
+2921994422.index
