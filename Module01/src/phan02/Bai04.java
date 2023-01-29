@@ -23,8 +23,11 @@ public class Bai04 {
 /*
  * GIẢI THÍCH
  *
- * Dòng code 10: phần tử i ban đầu i = 3, sau khi i++ (dòng code 10) => i tăng 1 ==> i =4
- * Sòng code 12:
+ * Line 10: phần tử i ban đầu i = 3, 
+ * Line 11: sau khi i++ (tạo ra bản copy của giá trị ban đầu sau đó cộng vào i) ==> i tăng 1 ==> i = 4
+ * Line 12: xuất ra kết quả từ phép toán
  * 
+ * Line 13: sau khi ++i (cộng thẳng trên giá trị ban đầu) ==> i tăng 1 ==> i = 5
  * 
- * */
+ * toán tử i++/++i tương tự i--/--i
+ */

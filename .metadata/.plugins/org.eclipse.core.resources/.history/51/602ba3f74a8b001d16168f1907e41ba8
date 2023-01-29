@@ -1,7 +1,0 @@
-package phan01;
-
-public class Bai02 {
-	public static void main(String[] args) {
-		System.out.println("Hello Thiên Khải");
-	}
-}
