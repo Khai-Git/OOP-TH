@@ -1,0 +1,17 @@
+package phan03;
+/**
+ * 
+ * @author Phát sinh số ngẫu nhiên dùng lớp Random. Lớp Random nằm trong gói java.util, một số phương thức
+ *
+ */
+
+import java.util.Random;
+
+public class Bai02_Random {
+	public static void main(String[] args) {
+		Random rd = new Random();
+		int n = rd.nextInt();
+		int m = 3604759;
+		System.out.println("Random number: " + m%10);
+	}
+}

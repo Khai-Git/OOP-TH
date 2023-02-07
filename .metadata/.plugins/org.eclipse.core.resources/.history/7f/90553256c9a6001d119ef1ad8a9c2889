@@ -1,0 +1,23 @@
+package phan03;
+
+import java.util.Scanner;
+
+/**
+ * 
+ * @author Viết chương trình in ra tổng của 10 số chẵn đầu tiên
+ *
+ */
+public class Bai13_Tinh_Tong_Chan {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Ban muon nhap bao nhieu so ?");
+		System.out.print("Nhap: ");
+		int n = sc.nextInt();
+		int tongChan = 0;
+		
+		for (int i = 0; i < n; i++) {
+			System.out.println("Moi ban nhap so thu '" + i + 1 + "'");
+			
+		}
+	}
+}

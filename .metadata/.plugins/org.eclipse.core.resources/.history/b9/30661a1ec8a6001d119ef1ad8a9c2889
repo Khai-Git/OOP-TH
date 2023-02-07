@@ -1,0 +1,15 @@
+package phan03;
+
+import java.util.Scanner;
+
+/**
+ * 
+ * @author Viết chương trình in ra tổng của 10 số chẵn đầu tiê
+ *
+ */
+public class Bai13_Tinh_Tong_Chan {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+	}
+}
