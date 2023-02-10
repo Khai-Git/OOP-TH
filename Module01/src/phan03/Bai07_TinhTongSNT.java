@@ -4,10 +4,11 @@ import java.util.Iterator;
 import java.util.Scanner;
 
 /**
- * 
- * @author Tính tổng các số nguyên tố nhỏ hơn N.
+ * Tính tổng các số nguyên tố nhỏ hơn N.
+ * @author BeekaiPC
  *
  */
+
 public class Bai07_TinhTongSNT {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

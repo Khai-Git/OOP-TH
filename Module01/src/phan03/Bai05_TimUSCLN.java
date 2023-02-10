@@ -2,8 +2,8 @@ package phan03;
 
 import java.util.Scanner;
 /**
- * 
- * @author Viết chương trình tìm USCLN của 2 số nhập vào.
+ * Viết chương trình kiểm tra số nhập vào có phải là số nguyên tố hay không.
+ * @author BeekaiPC
  *
  */
 public class Bai05_TimUSCLN {

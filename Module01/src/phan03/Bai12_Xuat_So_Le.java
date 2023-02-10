@@ -1,7 +1,8 @@
 package phan03;
 /**
  * 
- * @author Viết chương trình in ra những số lẻ từ 1 đến 99
+ * Viết chương trình in ra những số lẻ từ 1 đến 99
+ * @author BeekaiPC
  *
  */
 public class Bai12_Xuat_So_Le {

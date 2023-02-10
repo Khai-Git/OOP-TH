@@ -1,0 +1,30 @@
+package LT_Chuong3.DiemSinhVien;
+
+public class DiemSinhVien {
+	private int maSV;
+	private String hoTen;
+	private float diemLT;
+	private float diemTH;
+	
+	public DiemSinhVien() {
+		maSV = 0;
+		hoTen = "";
+		diemLT = 0;
+		diemTH = 0 ;
+	}
+
+	public DiemSinhVien(int maSV) {
+		super();
+		this.maSV = maSV;
+	}
+
+
+
+	public DiemSinhVien(int maSV, String hoTen, float diemLT, float diemTH) {
+		super();
+		this.maSV = maSV;
+		this.hoTen = hoTen;
+		this.diemLT = diemLT;
+		this.diemTH = diemTH;
+	}
+}

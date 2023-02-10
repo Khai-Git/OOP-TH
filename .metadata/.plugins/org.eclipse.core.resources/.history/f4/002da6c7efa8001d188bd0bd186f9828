@@ -1,0 +1,26 @@
+package LT_Chuong3;
+
+public class HinhChuNhat {
+	private float cDai;
+	private float cRong;
+	public float getcDai() {
+		return cDai;
+	}
+	public void setcDai(float cDai) {
+		this.cDai = cDai;
+	}
+	public float getcRong() {
+		return cRong;
+	}
+	public void setcRong(float cRong) {
+		this.cRong = cRong;
+	}
+	
+	public float tinhChuVi(float cDai, float cRong) {
+		return (cDai + cRong) * 2;
+	}
+	
+	public float tinhDienTich(float cDai, float cRong) {
+		return cDai * cRong;
+	}
+}

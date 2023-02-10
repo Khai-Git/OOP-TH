@@ -1,0 +1,17 @@
+package phan01;
+
+/**
+ * Viết chương trình nhập vào tên của mình và xuất ra màn hình “Hello + Tên”
+ */
+
+import java.util.Scanner;
+
+public class Bai02 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Nhap ten cua ban: ");
+		String nhap = sc.nextLine();
+		
+		System.out.println("Hello " + nhap);
+	}
+}

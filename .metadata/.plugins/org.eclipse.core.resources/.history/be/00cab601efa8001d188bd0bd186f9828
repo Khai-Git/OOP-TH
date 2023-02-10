@@ -1,0 +1,8 @@
+package LT_Chuong3;
+
+public class HinhChuNhat {
+	private int cDai;
+	private int cRong;
+	
+	
+}

@@ -3,8 +3,8 @@ package phan03;
 import java.util.Scanner;
 
 /**
- * 
- * @author Viết chương trình để đếm số lượng ký tự là số có trong chuỗi s. Chuỗi s được nhập từ bàn phím
+ * Viết chương trình để đếm số lượng ký tự là số có trong chuỗi s. Chuỗi s được nhập từ bàn phím
+ * @author BeekaiPC
  *
  */
 

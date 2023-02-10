@@ -3,8 +3,8 @@ package phan03;
 import java.util.Scanner;
 
 /**
- * 
- * @author Viết hàm tách chuỗi gốc thành chuỗi con
+ * Viết hàm tách chuỗi gốc thành chuỗi con
+ * @author BeekaiPC
  *
  */
 

@@ -1,0 +1,12 @@
+package LT_Chuong3;
+
+public class Test {
+	public static void main(String[] args) {
+		HinhChuNhat h = new HinhChuNhat();
+		h.setcDai(0);
+		h.setcRong(0);
+		
+		System.out.println("Chu vi = " + h.tinhChuVi(0, 0));
+		System.out.println("Dien tich = " + h.tinhDienTich(0, 0));
+	}
+}

@@ -4,8 +4,8 @@ import java.util.Iterator;
 import java.util.Scanner;
 
 /**
- * 
- * @author Viết chương trình in ra số lần kí tự ‘a’ xuất hiện trong một chuỗi.
+ * Viết chương trình in ra số lần kí tự ‘a’ xuất hiện trong một chuỗi.
+ * @author BeekaiPC
  *
  */
 public class Bai08_Count_Letter_in_String {

@@ -4,8 +4,8 @@ import java.util.Iterator;
 import java.util.Scanner;
 
 /**
- * 
- * @author Viết chương trình nhập vào số nguyên n và thực hiện: Xuất ra màn hình n số đầu tiên của chuỗi Fibonaci (có hai giá trị đầu là 1 và 1)
+ * Viết chương trình nhập vào số nguyên n và thực hiện: Xuất ra màn hình n số đầu tiên của chuỗi Fibonaci (có hai giá trị đầu là 1 và 1)
+ * @author BeekaiPC
  *
  */
 public class Bai11_Xuat_Chuoi_Fibonaci {

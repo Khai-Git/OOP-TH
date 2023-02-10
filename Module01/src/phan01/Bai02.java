@@ -1,10 +1,11 @@
 package phan01;
+
 /**
+ * Viết chương trình nhập vào tên của mình và xuất ra màn hình “Hello + Tên”
+ *  @author BeekaiPC
  * 
- * 2/ Viết chương trình nhập vào tên của mình và xuất ra màn hình “Hello + Tên”
- * 
- * @author
- * */
+ */
+
 import java.util.Scanner;
 
 public class Bai02 {

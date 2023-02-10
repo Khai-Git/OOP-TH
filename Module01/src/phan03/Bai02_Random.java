@@ -1,7 +1,7 @@
 package phan03;
 /**
- * 
- * @author Phát sinh số ngẫu nhiên dùng lớp Random. Lớp Random nằm trong gói java.util, một số phương thức
+ * Phát sinh số ngẫu nhiên dùng lớp Random. Lớp Random nằm trong gói java.util, một số phương thức
+ * @author BeekaiPC
  *
  */
 

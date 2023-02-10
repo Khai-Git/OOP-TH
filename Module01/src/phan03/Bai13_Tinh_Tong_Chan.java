@@ -9,7 +9,8 @@ import javax.swing.JOptionPane;
 
 /**
  * 
- * @author Viết chương trình in ra tổng của 10 số chẵn đầu tiên
+ * Viết chương trình in ra tổng của 10 số chẵn đầu tiên
+ * @author BeekaiPC
  *
  */
 public class Bai13_Tinh_Tong_Chan {
@@ -19,17 +20,19 @@ public class Bai13_Tinh_Tong_Chan {
 		System.out.print("Nhap: ");
 		int n = sc.nextInt();
 		int[] arr = {};
-//		String[] arr = {};
-//		List<String> mang = new ArrayList<>(Arrays.asList(arr));
+		List<Integer> mang = new ArrayList<>(Arrays.asList());
 		int tongChan = 0;
 		int dem = 0;
 		
 		for (int i = 0; i < n; i++) {
-			System.out.println("Moi ban nhap so thu '" + i + 1 + "'");
-//			mang.add(sc.nextInt() + "");
+			System.out.println("Moi ban nhap so thu '" + (i + 1) + "'");
 			System.out.print("Nhap: ");
-			arr[i] = sc.nextInt();
+//			mang.add(sc.nextInt());
+//			arr[i] = sc.nextInt();
+			
 		}
+		
+		System.out.println(arr);
 		
 		for (int i = 0; i < arr.length; i++) {
 			if (arr[i] % 2 == 0) {
@@ -40,8 +43,8 @@ public class Bai13_Tinh_Tong_Chan {
 		if (dem >= 10) {
 			System.out.println("Tong 10 so chan dau tien = " + tongChan);
 		} else {
-			System.out.println("Tong " + dem + " so chan dau tien = " + tongChan);
 			JOptionPane.showConfirmDialog(null, "Vi nhap chua du 10 so chan nen chi tinh " + dem + " so trong tong so da nhap");
+			System.out.println("Tong " + dem + " so chan dau tien = " + tongChan);
 		}
 //	public static void main(String[] args) {
 //		int[] arr = {1 , 22, 4, 6, 543, 8, 12, 15, 765, 45, 14, 16, 10, 32, 321, 11, 20};

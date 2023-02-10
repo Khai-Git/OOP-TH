@@ -1,10 +1,9 @@
 package phan02;
 /**
- * 
- * 3/ Thao tác với toán tử 1 ngôi
- * 
- * @author
- * */
+ * Thao tác với toán tử 1 ngôi
+ * @author BeekaiPC
+ *
+ */
 public class Bai03 {
 	public static void main(String[] args) {
 		int result = + 1;

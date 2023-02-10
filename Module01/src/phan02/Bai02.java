@@ -1,10 +1,9 @@
 package phan02;
 /**
- * 
- * 2/ Thao tác với toán tử nối chuỗi
- * 
- * @author
- * */
+ * Thao tác với toán tử nối chuỗi
+ * @author BeekaiPC
+ *
+ */
 public class Bai02 {
 	public static void main(String[] args) {
 		String firstString = "This is ";

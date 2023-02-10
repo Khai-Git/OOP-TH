@@ -1,11 +1,10 @@
 package phan03;
 
 /**
- * 
- * 2/ Cấu trúc while, do while và for
- * 
- * @author
- * */
+ * Cấu trúc while, do while và for
+ * @author BeekaiPC
+ *
+ */
 public class Bai02_While {
 	public static void main(String[] args) {
 		int count = 1;

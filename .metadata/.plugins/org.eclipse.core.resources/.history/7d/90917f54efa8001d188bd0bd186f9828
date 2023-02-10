@@ -1,0 +1,22 @@
+package LT_Chuong3;
+
+public class HinhChuNhat {
+	private int cDai;
+	private int cRong;
+	public int getcDai() {
+		return cDai;
+	}
+	public void setcDai(int cDai) {
+		this.cDai = cDai;
+	}
+	public int getcRong() {
+		return cRong;
+	}
+	public void setcRong(int cRong) {
+		this.cRong = cRong;
+	}
+	
+	public int tinhChuVi(int cDai, int cRong) {
+		return (cDai + cRong) * 2;
+	}
+}

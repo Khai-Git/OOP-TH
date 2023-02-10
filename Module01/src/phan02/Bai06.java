@@ -1,10 +1,9 @@
 package phan02;
 /**
- * 
- * 6/ Thao tác với toán tử điều kiện
- * @author
- * 
- * */
+ * Thao tác với toán tử điều kiện
+ * @author BeekaiPC
+ *
+ */
 public class Bai06 {
 	/*ConditionDemo*/
 	public static void main(String[] args) {

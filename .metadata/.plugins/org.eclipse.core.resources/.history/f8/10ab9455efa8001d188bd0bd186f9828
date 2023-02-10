@@ -1,0 +1,11 @@
+package LT_Chuong3;
+
+public class Test {
+	public static void main(String[] args) {
+		HinhChuNhat h = new HinhChuNhat();
+		h.setcDai(0);
+		h.setcRong(0);
+		
+		
+	}
+}

@@ -2,8 +2,8 @@ package phan03;
 
 import java.util.Scanner;
 /**
- * 
- * @author Viết chương trình giải phương trình bậc 1
+ * Viết chương trình giải phương trình bậc 1
+ * @author BeekaiPC
  *
  */
 public class Bai04_GiaiPTBac1 {

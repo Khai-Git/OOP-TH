@@ -1,10 +1,9 @@
 package phan02;
 /**
- * 
- * 4/ Thao tác với toán tử pre-increment và post-increment
- * 
- * @author
- * */
+ * Thao tác với toán tử pre-increment và post-increment
+ * @author BeekaiPC
+ *
+ */
 public class Bai04 {
 	public static void main(String[] args) {
 		int i = 3;

@@ -3,11 +3,10 @@ package phan03;
 import java.util.Scanner;
 
 /**
- * 
- * 3/ Viết chương trình in ra tổng 1+3+5+…+n nếu n là số lẻ, 2+4+6+…+n nếu n là số chẵn.
- * 
- * @author
- * */
+ * Viết chương trình in ra tổng 1+3+5+…+n nếu n là số lẻ, 2+4+6+…+n nếu n là số chẵn.
+ * @author BeekaiPC
+ *
+ */
 public class Bai03_TinhtongChan_Le {
 	public static void main(String[] args) {
 		int tong = 0;

@@ -1,10 +1,9 @@
 package phan03;
 /**
- * 
- * 1/ Cấu trúc if-else, switch case
- * 
- * @author
- * */
+ * Cấu trúc if-else, switch case
+ * @author BeekaiPC
+ *
+ */
 public class Bai01_SwitchCase {
 	public static void main(String[] args) {
 		int month = 8;
