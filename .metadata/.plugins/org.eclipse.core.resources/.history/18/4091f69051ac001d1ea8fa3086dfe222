@@ -19,7 +19,6 @@ public class Bai13_Tinh_Tong_Chan {
 		System.out.println("Ban muon nhap bao nhieu so ?");
 		System.out.print("Nhap: ");
 		int n = sc.nextInt();
-		int arr[];
 		List<Integer> mang = new ArrayList<>(Arrays.asList());
 		int tongChan = 0;
 		int dem = 0;
